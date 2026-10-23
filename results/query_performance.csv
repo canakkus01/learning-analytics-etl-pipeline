@@ -1,0 +1,6 @@
+query,title,rows_returned,avg_ms,best_ms
+Q1,Average and range of daily active study minutes (all students),1,5.12,1.33
+Q2,"Scheduled study activity vs. other data sources, per student-day",34,2.1,1.88
+Q3,"Distractive notifications vs. study start delay, per student-day",34,1.91,1.75
+Q4,Per-student screen time vs. actual study time,10,1.68,1.57
+Q5,"Notification volume by app and category, with average reaction time",10,1.41,1.31
